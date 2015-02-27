@@ -1,3 +1,4 @@
 development:
   api_key: your api key
   secret: your secret
+  myshopify_domain: myshopify.com
